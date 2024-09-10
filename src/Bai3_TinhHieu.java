@@ -7,8 +7,8 @@ import java.util.Scanner;
  *
  * @author Administrator
  */
-public class Bai1_HelloWorld {
-    public static void main(String[] args) {
+public class Bai3_TinhHieu {
+     public static void main(String[] args) {
             System.out.println("Chuong trinh tinh hieu 2 so ");
             Scanner sc = new Scanner(System.in);
             System.out.println("Nhap so a");
@@ -18,6 +18,6 @@ public class Bai1_HelloWorld {
             int hieu = a - b;
             System.out.println(a + " - " + b + " = " + hieu);
             
-           
-    }
 }
+}
+
